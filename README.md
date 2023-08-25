@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Bruno Santos 👋
 
 - 🔭 Atualmente trabalho com back-end
-- 🌱 NodeJs/Typescript/NestJs/MongoDb/Python
+- 🌱 NodeJs/Typescript/NestJs/Postgre/MongoDb/Python/AWS
 - 😄 Pronouns: ele/dele
 
 ##
