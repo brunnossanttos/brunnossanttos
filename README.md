@@ -5,8 +5,15 @@
 - 😄 Pronouns: ele/dele
 
 ##
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
 
+##
 
+![Bruno Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnossanttos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark)
 
 ##
 
@@ -18,3 +25,7 @@
   
   ##
 </div>
+
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
