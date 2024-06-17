@@ -11,7 +11,7 @@
 
   - ⚡ Gosto de ler um bom livro, clássicos da literatura, principalmente dramas russos, franceses e brasileiros, além de assistir filmes e praticar esportes! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
-##
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
