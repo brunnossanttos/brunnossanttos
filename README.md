@@ -7,7 +7,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 24 anos de idade, moro no Brasil atualmente. Falo inglês fluente e tenho experiência com Javascript, NodeJs, SQL, Análise de Dados, AWS, e Terraform.
+  - 💬 Eu tenho 25 anos de idade, moro no Brasil atualmente. Falo inglês fluente e tenho experiência com Javascript, NodeJs, SQL, Análise de Dados, AWS, e Terraform.
 
   - ⚡ Gosto de ler um bom livro, clássicos da literatura, principalmente dramas russos, franceses e brasileiros, além de assistir filmes e praticar esportes! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
