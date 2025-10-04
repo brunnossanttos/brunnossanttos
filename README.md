@@ -12,12 +12,6 @@
   - ⚡ Gosto de ler um bom livro, clássicos da literatura, principalmente dramas russos, franceses e brasileiros, além de assistir filmes e praticar esportes! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
-
 ![Bruno Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnossanttos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark)
 
 ##
