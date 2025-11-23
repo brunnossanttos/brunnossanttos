@@ -1,26 +1,60 @@
-## Olá! Eu sou o Bruno Santos 👋
+<div align="center">
 
-- 🔭 Atualmente trabalho com back-end
-- 🌱 C#/AWS/Terraform/NodeJs/Postgres/MongoDb/MySQL
-- 😄 Pronouns: ele/dele
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+# 👋 Bruno Santos
 
-  - 💬 Eu tenho 25 anos de idade, moro no Brasil atualmente. Falo inglês fluente e tenho experiência com Javascript, NodeJs, SQL, Análise de Dados, AWS, e Terraform.
+### Backend Developer | C# & .NET | Node.js | AWS
 
-  - ⚡ Gosto de ler um bom livro, clássicos da literatura, principalmente dramas russos, franceses e brasileiros, além de assistir filmes e praticar esportes! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
-</details>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bruno-santos-850a28159/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:brunossantosti99@gmail.com)
 
-![Bruno Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=brunnossanttos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=vue-dark)
+</div>
 
-##
+---
 
-<div> 
-  <a href="https://instagram.com/brunno_ssanttos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a href="https://discord.com/users/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brunossantosti99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-santos-850a28159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 👨‍💻 About Me
+
+Backend Developer with experience in scalable architectures and cloud computing. Passionate about solving complex problems and learning new technologies.
+
+- 🏢 Focused on backend development with C# and Node.js
+- 💻 Currently studying and specializing in C# and .NET ecosystem
+- ☁️ 4 years of experience with AWS (Lambda, EC2, DocumentDB, VPC)
+- 🗄️ Databases: PostgreSQL, MongoDB, MySQL
+- 🌍 Brazilian, fluent in English
+- 📚 Avid reader of classic literature
+
+## 🛠️ Tech Stack
+
+**Backend & Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-  ##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunnossanttos&show_icons=true&theme=vue-dark&include_all_commits=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+💬 **Let's talk about technology, literature, or anything!**
+
 </div>
