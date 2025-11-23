@@ -47,7 +47,7 @@ Backend Developer with experience in scalable architectures and cloud computing.
 
 <div align="center">
   
-# ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunnossanttos&show_icons=true&theme=vue-dark&include_all_commits=true)
+// ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunnossanttos&show_icons=true&theme=vue-dark&include_all_commits=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunnossanttos&theme=vue-dark)
 
 </div>
