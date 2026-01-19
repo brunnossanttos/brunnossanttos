@@ -2,7 +2,7 @@
 
 # 👋 Bruno Santos
 
-### Backend Developer | C# & .NET | Node.js | AWS
+### Backend Developer | .NET | Node.js | AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bruno-santos-850a28159/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:brunossantosti99@gmail.com)
